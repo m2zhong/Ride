@@ -1,5 +1,5 @@
 # Ride
-Ride is a ride share application to help college students communiting between campus and home. This applicaiton is developed using HTML, Bootstrap CSS, JQuery for front-end, and Node.js, Mongo Database for backend. The prototype version is hosted using Heroku App Service
+Ride is a rideshare application to help college students communiting between campus and home. This applicaiton is developed using HTML, Bootstrap CSS, JQuery for front-end, and Node.js, Mongo Database for backend. The prototype version is hosted using Heroku App Service
 
 # Getting Started
 To use Ride, simply go to http://rideordrive.herokuapp.com/
